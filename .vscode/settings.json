@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.pug": "jade",
+        "vector": "cpp",
+        "__bit_reference": "cpp",
+        "ostream": "cpp",
+        "typeinfo": "cpp",
+        "string": "cpp"
+    }
+}
